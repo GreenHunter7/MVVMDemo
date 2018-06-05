@@ -52,7 +52,7 @@ struct UserViewModel {
             result.value = "success"
             return result
         }else{
-            result.value = "faild"
+            result.value = "failed"
             return result
         }
     }
